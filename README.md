@@ -1,2 +1,2 @@
 # ThePetShop
-Program with simple account system using text files
+Program with simple account and ordering system using text files
