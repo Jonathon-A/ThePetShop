@@ -1,0 +1,3 @@
+Pets: 1
+Toys: 5
+Food: 6

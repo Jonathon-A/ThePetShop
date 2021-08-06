@@ -1,0 +1,4 @@
+Pets: 784
+Toys: 78
+Food: 78
+Total: 940
